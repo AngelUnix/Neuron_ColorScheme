@@ -1,5 +1,7 @@
 # Neuron_ColorScheme
 
+![Screenshot](logo.png)
+
 Neuron its a Color Scheme for Konsole KDE.
 
 ![Screenshot](neuron2.png)
