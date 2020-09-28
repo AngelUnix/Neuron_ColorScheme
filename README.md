@@ -4,8 +4,6 @@ Neuron its a ColorScheme for Konsole KDE.
 
 ![Screenshot](neuron2.png)
 
-![Screenshot](neuron3.png)
-
 Support of nano editor
 
 ![Screenshot](neuron4.png)   
